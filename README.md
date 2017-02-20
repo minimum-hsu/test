@@ -5,6 +5,9 @@
 
 # Get Started
 
+## Mention
+Let's see how GitLab works~
+
 ## Start MySQL and Redis using docker
 
     cd docker
