@@ -10,6 +10,7 @@ Let's see how GitLab works~
 
 ## Start MySQL and Redis using docker
 
+
     cd docker
     docker-compose -f init.yml up -d
     docker inspect docker_mysql_1
